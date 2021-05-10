@@ -17,7 +17,9 @@ class Header extends React.Component {
     
     return ( 
       <div>
-        <h1>Some header text</h1>
+        <header>
+          <p>Meme Generator</p>
+        </header>
       </div>
     )
   } 
